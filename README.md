@@ -5,9 +5,13 @@
 A simple "My Stock List" to keep track of stock items on two-shelf racks with two storage bins per shelf:
 
 RACK A
-TOP SHELF - BIN 1 & BIN 2
-BOTTOM SHELF - BIN 1 & BIN 2
+
+- TOP SHELF: BIN 1 & BIN 2
+
+- BOTTOM SHELF: BIN 1 & BIN 2
 
 RACK B
-TOP SHELF - BIN 1 & BIN 2
-BOTTOM SHELF - BIN 1 & BIN 2
+
+- TOP SHELF: BIN 1 & BIN 2
+
+- BOTTOM SHELF: BIN 1 & BIN 2
